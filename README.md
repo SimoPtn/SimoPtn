@@ -20,3 +20,5 @@
   <img  alt="CSS3" src="https://img.shields.io/badge/SCSS-239120?&style=for-the-badge&logo=sass&logoColor=white" style="max-width: 100%;">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
   </details> 
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoPtn&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)

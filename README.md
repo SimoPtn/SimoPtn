@@ -21,4 +21,4 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
   </details> 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoPtn&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+

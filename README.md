@@ -1,5 +1,5 @@
 <h1 align="center">Hi🤟, I'm Simone Patanè!</h1>
-<h3 align="center">I'm a Junior Front-End Developer 💻 </h3>
+<h3 align="center">I'm Front-End Developer 💻 </h3>
 
 <p align="center"> * @Angular developer * </p>
 
